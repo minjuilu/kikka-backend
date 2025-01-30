@@ -1,4 +1,4 @@
-### Kikka Hirado - 後端設置
+## Kikka Hirado - 後端設置
 
 ## 專案目的
 本專案的後端部分使用 Express 搭配 Firebase，負責處理用戶的註冊、登入、密碼重置等身份驗證功能，並確保資料能夠有效儲存在 Firebase 的資料庫中。專案的主要目的是學習如何在 Node.js 環境中整合 Firebase 並構建一個可靠的後端服務，同時強化對 CORS 配置、環境變數管理以及伺服器運行監控（使用 nodemon）的理解。
